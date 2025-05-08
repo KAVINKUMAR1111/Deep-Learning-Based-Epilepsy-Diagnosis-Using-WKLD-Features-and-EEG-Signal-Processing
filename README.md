@@ -52,17 +52,6 @@ cd backend
 pip install -r requirements.txt
 ```
 
-> 📌 Make sure your `requirements.txt` includes:
-
-```
-tensorflow==2.12.0
-fastapi
-uvicorn
-numpy
-scipy
-keras
-```
-
 ### 🔹 Step 4: Start the FastAPI Server
 
 ```bash
