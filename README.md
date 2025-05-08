@@ -48,14 +48,13 @@ source venv/bin/activate  # On Windows use venv\Scripts\activate
 ### 🔹 Step 3: Install Backend Dependencies
 
 ```bash
-cd backend
 pip install -r requirements.txt
 ```
 
 ### 🔹 Step 4: Start the FastAPI Server
 
 ```bash
-uvicorn main:app --reload
+python app.py
 ```
 
 This will launch the API at: `http://127.0.0.1:8000`
@@ -67,8 +66,7 @@ This will launch the API at: `http://127.0.0.1:8000`
 Open a new terminal:
 
 ```bash
-cd frontend
-python gui_app.py
+python client.py
 ```
 
 This GUI will allow you to:
