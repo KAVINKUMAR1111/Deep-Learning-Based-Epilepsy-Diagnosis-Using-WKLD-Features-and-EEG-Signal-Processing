@@ -32,8 +32,8 @@ An AI-powered system for real-time epileptic seizure detection and brain zone lo
 ### 🔹 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wkld-epilepsy-diagnosis.git
-cd wkld-epilepsy-diagnosis
+git clone https://github.com/KAVINKUMAR1111/Deep-Learning-Based-Epilepsy-Diagnosis-Using-WKLD-Features-and-EEG-Signal-Processing
+cd Deep-Learning-Based-Epilepsy-Diagnosis-Using-WKLD-Features-and-EEG-Signal-Processing
 ```
 
 ### 🔹 Step 2: Setup Python Environment (Python 3.11 Required)
