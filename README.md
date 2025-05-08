@@ -24,26 +24,7 @@ An AI-powered system for real-time epileptic seizure detection and brain zone lo
 * Keras
 * NumPy, SciPy, Matplotlib
 * PyQt5
-
----
-
-## 📁 Project Structure
-
-```
-├── backend/
-│   ├── main.py                # FastAPI server
-│   ├── model_loader.py        # Model handling logic
-│   ├── requirements.txt       # Backend dependencies
-│   └── models/                # Trained .h5 and .hdf5 model files
-│
-├── frontend/
-│   ├── gui_app.py             # PyQt5 GUI entry point
-│   └── assets/                # Fonts, icons, etc.
-│
-├── README.md
-└── .gitignore
-```
-
+  
 ---
 
 ## ⚙️ How to Run
