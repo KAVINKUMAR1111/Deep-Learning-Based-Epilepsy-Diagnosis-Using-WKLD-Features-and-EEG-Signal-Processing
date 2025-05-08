@@ -80,13 +80,6 @@ This GUI will allow you to:
 
 ---
 
-## ✅ Requirements
-
-* Python 3.11 only
-* TensorFlow 2.12 only
-
----
-
 
 
 ## 📜 License
