@@ -117,15 +117,11 @@ This GUI will allow you to:
 
 ---
 
-## 📷 Screenshots
 
-*Add screenshots of the GUI here if needed*
-
----
 
 ## 📜 License
 
-MIT License
+Open Sourced
 
 ---
 
