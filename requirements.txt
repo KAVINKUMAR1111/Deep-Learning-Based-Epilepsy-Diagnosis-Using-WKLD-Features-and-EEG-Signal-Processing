@@ -1,0 +1,6 @@
+tensorflow==2.12.0
+fastapi
+uvicorn
+numpy
+scipy
+keras
