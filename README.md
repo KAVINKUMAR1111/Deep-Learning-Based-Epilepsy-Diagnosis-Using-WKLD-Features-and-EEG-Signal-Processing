@@ -1,4 +1,4 @@
-# Deep-Learning-Based-Epilepsy-Diagnosis-Using-WKLD-Features-and-EEG-Signal-Processing
+# WKLD-Based Epilepsy Diagnosis System
 
 An AI-powered system for real-time epileptic seizure detection and brain zone localization using EEG signals. This project leverages WKLD-based feature extraction and deep learning models, with a **FastAPI** backend and a **PyQt5** GUI frontend for visualization and treatment suggestion.
 
@@ -138,3 +138,4 @@ MIT License
 ## 📬 Contact / Feedback
 
 Feel free to reach out for contributions, collaborations, or questions!
+
